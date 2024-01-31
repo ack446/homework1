@@ -1,2 +1,2 @@
-#homework 1
-Update README.md
+# Hello Professor
+Chaitanya Kumar (ca446)
