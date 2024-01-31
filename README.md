@@ -1,1 +1,2 @@
-# homework1
+#homework 1
+Added readme file
